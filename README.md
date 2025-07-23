@@ -7,7 +7,7 @@ Student / Front-end
 I am currently studying at Payao University, majoring in Software Engineering. I am passionate about coding and am actively seeking knowledge to enhance my skills. In the future, I aspire to secure a job that aligns with my interests.
 
 * 🌍  I'm based in I'm based in Phayao, Thailand
-* 🧠  I'm learning front-end / css / javascript/api
+* 🧠  I'm learning Front-end / Backend / Angular / React / Tailwind / CSS / Javascript / Java / API / Spring Boot
 * ⚡  Honestly, I am really interested in reading Chinese and Korean novels.
 
 ### Skills
